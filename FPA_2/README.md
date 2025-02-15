@@ -12,7 +12,7 @@
 
 1. Open **sp25_BerKyd_data02_prep.ipynb** Google Colab Jupyter Notebook.
 2. Connect the notebook runtime.
-3. Unzip **data02_prep.zip** from the FPA_2 directory in our GitHub Repo.
+3. Unzip **data02_prep zip location.txt** from the FPA_2 directory in our GitHub Repo.
 4. Move all files from **data02_prep.zip** to '/content/' directory of Google Colab.
 5. Click "Runtime -> Run all"
 
