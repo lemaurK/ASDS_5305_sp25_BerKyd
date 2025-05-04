@@ -6,7 +6,7 @@
 
 # Dataset Title: Drug SMILES Strings and Classifications
 
-**Source:** Research Paper Supporting Information [SMILES LINK]
+**Source:** Research Paper Supporting Information [SMILES LINK](https://pubs.acs.org/doi/suppl/10.1021/acs.jcim.9b00236/suppl_file/ci9b00236_si_003.xlsx)
 
 The SMILES Strings and Drug Classification dataset sourced from a paper is a compilation of a few different datasets, namely **PubChem** and **ZINC**. It contains SMILES Strings, which will function as the basis of our training data, and **drug classifications**, which will be our target variable. There are 6 other chemical features that can help classification performance if necessary.
 
